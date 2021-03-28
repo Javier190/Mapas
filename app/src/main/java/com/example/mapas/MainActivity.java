@@ -7,6 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
+//En este programa que hice yo logre pasar info de una activity a otra de un mapa y que me fije en las coordenadas ingresadas por usuario. Esto
+//a traves de intents y putextras
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText et1;
